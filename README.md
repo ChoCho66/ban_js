@@ -1,4 +1,4 @@
-# banban_js
+# ban_js
 
 要調用的話則將網址
 
